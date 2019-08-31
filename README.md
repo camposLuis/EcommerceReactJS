@@ -17,3 +17,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Configuração da parte de navegação da aplicação
 
   - yarn add react-router-dom
+
+- Instalação da biblioteca de estilização
+
+  - yarn add styled-components
