@@ -21,3 +21,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Instalação da biblioteca de estilização
 
   - yarn add styled-components
+
+- Instalação da biblioteca de icons
+
+  - yarn add react-icons
