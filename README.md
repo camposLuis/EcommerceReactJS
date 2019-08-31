@@ -13,3 +13,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
   - yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
 
 - Criar o arquivo .prettierrc
+
+- Configuração da parte de navegação da aplicação
+
+  - yarn add react-router-dom
