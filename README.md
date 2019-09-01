@@ -45,3 +45,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Instalação das bibliotecas de configuração do reactotron e integração do reactotron com redux
 
   - yarn add reactotron-react-js reactotron-redux
+
+- Instalação de ferramenta para lidar com objetos e arrays que são imutáveis dentro de aplicações que utilizam java script.
+
+  - yarn add immer
