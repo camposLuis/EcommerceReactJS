@@ -25,3 +25,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Instalação da biblioteca de icons
 
   - yarn add react-icons
+
+- Instalação da biblioteca para lidar com cor dentro do java script
+
+  - yarn polished
