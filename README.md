@@ -29,3 +29,11 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Instalação da biblioteca para lidar com cor dentro do java script
 
   - yarn polished
+
+- Instação de biblioteca para criação de uma api fake a partir de um arquivo json
+
+  - yarn global add json-server
+
+- Instalação de biblioteca que permite consumir api
+
+  - yarn add axios
