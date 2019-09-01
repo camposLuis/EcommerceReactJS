@@ -38,6 +38,10 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 
   - yarn add axios
 
-- Instalação da biblioteca de configuração do redux e de integração do react com o redux
+- Instalação das bibliotecas de configuração do redux e de integração do react com o redux
 
   - yarn add redux react-redux
+
+- Instalação das bibliotecas de configuração do reactotron e integração do reactotron com redux
+
+  - yarn add reactotron-react-js reactotron-redux
