@@ -20,6 +20,7 @@ export default function Cart() {
             <th />
           </tr>
         </thead>
+
         <tbody>
           <tr>
             <td>
@@ -54,6 +55,7 @@ export default function Cart() {
           </tr>
         </tbody>
       </ProductTable>
+
       <footer>
         <button type="button">Finalizar Pedido</button>
 
