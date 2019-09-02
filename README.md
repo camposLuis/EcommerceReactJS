@@ -49,3 +49,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Instalação de ferramenta para lidar com objetos e arrays que são imutáveis dentro de aplicações que utilizam java script.
 
   - yarn add immer
+
+- Instalação da biblioteca do redux saga (middlewere no redux)
+
+  - yarn add redux-saga
