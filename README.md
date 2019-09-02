@@ -57,3 +57,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Instalação da biblioteca de integração do redux saga com o reactotron
 
   - yarn add reactotron-redux-saga
+
+- Instalação da biblioteca que permite mensagens mais visuais
+
+  - yarn add react-toastify
