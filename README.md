@@ -33,6 +33,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Instação de biblioteca para criação de uma api fake a partir de um arquivo json
 
   - yarn global add json-server
+  - executar: json-server server.json -p (porta) -d (delay)
 
 - Instalação de biblioteca que permite consumir api
 
@@ -61,3 +62,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Instalação da biblioteca que permite mensagens mais visuais
 
   - yarn add react-toastify
+
+- Instalação da biblioteca que controla as historys das rotas do navegador
+
+  - yarn add history
