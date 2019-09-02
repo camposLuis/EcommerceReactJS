@@ -53,3 +53,7 @@ Bootcamp Rocketseat - Fase 4 ( Arquitetura Flux )
 - Instalação da biblioteca do redux saga (middlewere no redux)
 
   - yarn add redux-saga
+
+- Instalação da biblioteca de integração do redux saga com o reactotron
+
+  - yarn add reactotron-redux-saga
